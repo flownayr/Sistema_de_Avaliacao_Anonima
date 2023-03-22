@@ -1,0 +1,8 @@
+{
+    "require": {
+        "nesbot/carbon": "^2.66",
+        "symfony/css-selector": "^6.2",
+        "exeu/apai-io": "^2.2",
+        "phpquery/phpquery": "^0.0.4"
+    }
+}
